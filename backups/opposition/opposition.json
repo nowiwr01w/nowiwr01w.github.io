@@ -1,0 +1,68 @@
+[
+    {
+        "id": "0",
+        "name": "Алексей Навальный",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fnavalny.jpg?alt=media",
+        "status": "asked"
+    },
+    {
+        "id": "1",
+        "name": "Майкл Наки",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fnaki.jpg?alt=media",
+        "status": "thinks"
+    },
+    {
+        "id": "10",
+        "name": "Владимир Кара-Мурза",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fkara-murza.jpg?alt=media",
+        "status": "asked"
+    },
+    {
+        "id": "2",
+        "name": "Максим Кац",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fkats.jpg?alt=media",
+        "status": "process"
+    },
+    {
+        "id": "3",
+        "name": "Екатерина Шульман",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fshulman.jpg?alt=media",
+        "status": "done"
+    },
+    {
+        "id": "4",
+        "name": "Дмитрий Гудков",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fgudkov.jpeg?alt=media",
+        "status": "refused"
+    },
+    {
+        "id": "5",
+        "name": "Михаил Ходорковский",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fkhodorkovsky.jpg?alt=media",
+        "status": "asked"
+    },
+    {
+        "id": "6",
+        "name": "Евгений Ройзман",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Froizman.jpg?alt=media",
+        "status": "thinks"
+    },
+    {
+        "id": "7",
+        "name": "Борис Надеждин",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fnadezhdin.jpeg?alt=media",
+        "status": "process"
+    },
+    {
+        "id": "8",
+        "name": "Екатерина Дунцова",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fduntsova.jpg?alt=media",
+        "status": "done"
+    },
+    {
+        "id": "9",
+        "name": "Илья Яшин",
+        "photo": "https://firebasestorage.googleapis.com/v0/b/freerussia-3fef0.appspot.com/o/opposition%2Fyashin.jpg?alt=media",
+        "status": "refused"
+    }
+]
